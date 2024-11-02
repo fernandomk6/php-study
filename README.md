@@ -1,2 +1,2 @@
 # study-php
-Estudos sobre PHP
+Estudo sobre PHP
